@@ -7,6 +7,7 @@ Main GitHub profile: https://github.com/larry-liyuanfan
 Featured repositories:
 
 - https://github.com/larry-liyuanfan/climate-claim-verification-rag
+- https://github.com/larry-liyuanfan/optimization-solver-reproducibility
 - https://github.com/larry-liyuanfan/geospatial-burn-window-demo
 - https://github.com/larry-liyuanfan/hpc-social-language-count
 
